@@ -1,4 +1,4 @@
-package com.informatorio.models;
+package com.infomyblog.models;
 
 public class CommentModel {
     

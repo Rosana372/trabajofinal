@@ -1,4 +1,4 @@
-package com.informatorio.repositories;
+package com.infomyblog.repositories;
 
 public class CommentRepository {
     

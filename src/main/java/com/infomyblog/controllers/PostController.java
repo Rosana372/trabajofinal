@@ -1,4 +1,4 @@
-package com.informatorio.controllers;
+package com.infomyblog.controllers;
 
 public class PostController {
     

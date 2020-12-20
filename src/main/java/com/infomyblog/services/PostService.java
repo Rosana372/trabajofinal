@@ -1,4 +1,4 @@
-package com.informatorio.services;
+package com.infomyblog.services;
 
 public class PostService {
     
